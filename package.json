@@ -34,14 +34,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ICT37008G1-LBK-fall-2018/final-t1-robertguitar20.git"
+    "url": "git+https://github.com/ICT37008G1-LBK-fall-2018/final-t1-anianichka.git"
   },
   "author": "ani avaqiani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ICT37008G1-LBK-fall-2018/final-t1-robertguitar20/issues"
+    "url": "https://github.com/ICT37008G1-LBK-fall-2018/final-t1-anianichka/issues"
   },
-  "homepage": "https://github.com/ICT37008G1-LBK-fall-2018/final-t1-robertguitar20#readme",
+  "homepage": "https://github.com/ICT37008G1-LBK-fall-2018/final-t1-anianichka#readme",
   "dependencies": {
     "axios": "^0.18.0"
   }
